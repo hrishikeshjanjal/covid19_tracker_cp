@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-##Hosted URL: [https://covid-19-tracker-clone-cp.web.app/]
+## Hosted URL: [https://covid-19-tracker-clone-cp.web.app/]
 
 ## Available Scripts
 
